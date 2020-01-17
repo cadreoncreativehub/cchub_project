@@ -1,0 +1,58 @@
+[{
+        "id": 1,
+        "nombre": "Decathlon creatividad 1",
+        "url": "/c10",
+        "tag_ruta": "",
+        "tamano": {
+            "full": "300x250",
+            "width": 300,
+            "height": 250
+        },
+        "categoria": "Standard Display",
+        "info": "lorem..",
+        "ruta_img": "../../imgs_creatividades/decathlon.png",
+        "brand": {
+            "nombre": "Decathlon",
+            "logo": ".//imgs_creatividades/decathlon.png"
+        }
+    },
+    {
+        "id": 2,
+        "nombre": "Tous creatividad 1",
+        "url": "/c11",
+        "tag_ruta": "",
+        "tamano": {
+            "full": "300x250",
+            "width": 300,
+            "height": 250
+        },
+        "categoria": "Standard Display",
+        "info": "lorem..",
+        "ruta_img": "~/images/tous.png",
+        "brand": {
+            "nombre": "Tous",
+            "logo": "~/images/tous.png"
+        }
+    },
+    {
+        "id": 3,
+        "nombre": "Tous creatividad 2",
+        "url": "/c12",
+        "tag_ruta": "",
+        "tamano": {
+            "full": "300x250",
+            "width": 300,
+            "height": 250
+        },
+        "categoria": "Standard Display",
+        "info": "lorem..",
+        "ruta_img": "~/images/tous.png",
+        "brand": {
+            "nombre": "Tous",
+            "logo": "~/images/tous.png"
+        }
+    }
+
+
+
+]

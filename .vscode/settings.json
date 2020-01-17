@@ -1,0 +1,8 @@
+{
+    // enable vue language support
+
+"eslint.options": {
+    "extensions": [".js", ".vue"]
+  },
+  "eslint.format.enable": true
+}
